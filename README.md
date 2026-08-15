@@ -18,6 +18,7 @@ The project consists of **3 interconnected report pages**, each answering a diff
 ## 1. Executive & Sales Dashboard
 
 ![Dashboard Preview](Executive_Sales.png)
+
 **Purpose:** High-level view of business health — revenue, order volume, top products, and payment behavior.
 
 **KPIs:** Revenue · Orders · AOV · Avg Review Score · Customers · Sellers
@@ -36,6 +37,7 @@ The project consists of **3 interconnected report pages**, each answering a diff
 ## 2. Delivery & Sellers Dashboard
 
 ![Dashboard Preview](Delivery_Sellers.png)
+
 **Purpose:** Evaluate logistics performance and identify where delays or fulfillment issues originate.
 
 **KPIs:** Orders · Avg Delivery Days · % Late Deliveries · Avg Freight Value · Sellers
@@ -55,6 +57,7 @@ The project consists of **3 interconnected report pages**, each answering a diff
 ## 3. Customers & Satisfaction Dashboard
 
 ![Dashboard Preview](Customers_Satisfaction.png)
+
 **Purpose:** Understand who the customers are, how loyal they are, and how satisfied they are with their experience.
 
 **KPIs:** Customers · % Repeat Customers · Avg Review Score · % 5-Star Reviews
